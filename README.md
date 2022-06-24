@@ -43,6 +43,7 @@ NOTE: The script on top didn't work on Arch Linux but this one worked.
 		xdg-open $url
 	fi
 3. Don't forget to make the script executable.
+
 `$ sudo chmod +x /usr/bin/clipmenu-url`
 
 4. You need to export your preferred browser.
