@@ -59,3 +59,4 @@ I use DWM as a window manager so i need to add the keybinding to the config.h fi
 `$ vim config.h`
 
 NOTE: For more info watch the video.
+https://youtu.be/X2wmkaGDNH4
