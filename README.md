@@ -42,12 +42,14 @@ NOTE: The script on top didn't work on Arch Linux but this one worked.
 	if url=$(grep --max-count=1 --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>\]]*" "$newest"); then
 		xdg-open $url
 	fi
+3. Don't forget to make the script executable.
+`$ sudo chmod +x /usr/bin/clipmenu-url`
 
-3. You need to export your preferred browser.
+4. You need to export your preferred browser.
 
 `$ echo "export BROWSER='chromium'" >> .bashrc`
 
-4. Adding a keybinding for a faster access.
+5. Adding a keybinding for a faster access.
 
 I use DWM as a window manager so i need to add the keybinding to the config.h file.
 
