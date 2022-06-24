@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vi_Z-5VC_sQ this is a link tomy video on how to 
 
 	#!/usr/bin/env bash
 
-	files=(/tmp/clipmenu.3.$USER/*)
+	files=(/tmp/clipmenu.6.$USER/*)
 
 	newest=${files[0]}
 	for f in "${files[@]}"; do
@@ -31,7 +31,7 @@ NOTE: The script on top didn't work on Arch Linux but this one worked.
 
 	#!/usr/bin/env bash
 
-	files=($XDG_RUNTIME_DIR/clipmenu.5.$USER/*)
+	files=($XDG_RUNTIME_DIR/clipmenu.6.$USER/*)
 
 	newest=${files[0]}
 	for f in "${files[@]}"; do
