@@ -1,4 +1,5 @@
-## How to open the last URL using clipmenu-url.
+## Open the last URL using clipmenu-url.
+### How to open the last url in your browser from the clipboard using a script and clipmenu.
 
 NOTE: You should have clipmenu installed and setup, in case you don't.
 https://www.youtube.com/watch?v=vi_Z-5VC_sQ this is a link tomy video on how to setup clipmenu.
