@@ -53,6 +53,6 @@ I use DWM as a window manager so i need to add the keybinding to the config.h fi
 
 `$ cd Suckless/dwm/`
 
-`/Suckless/dwm $ vim config.h`
+`$ vim config.h`
 
 NOTE: For more info watch the video.
